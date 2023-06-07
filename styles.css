@@ -1,2 +1,7 @@
 
 /* Your CSS Code here. */
+#total{
+	font:monospace;
+	text-align:end;
+	font-weigth:bold;
+}
